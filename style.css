@@ -1,0 +1,30 @@
+body {
+	color:#000000;
+	background: #000 url('bg1.jpg') top no-repeat;
+	font-family: Roboto, Arial, Helvetica, "sans-serif";
+	font-weight: 300;
+	letter-spacing: 0px;
+}
+a { color:#0000FF; }
+a:visited { color:#800080; }
+a:hover { color:#008000; }
+a:active { color:#FF0000; }
+
+.wrapper{
+	width: 100%;
+	text-align: center;
+}
+.content{
+    width: 900px;
+    margin: 0px auto 0px auto;
+	padding: 0 22px; 
+	background: #fff;
+	border-radius: 17px;
+	text-align: left;
+}
+.cellsFull{
+    width: 890px;	
+}
+.cellsThree{
+    width: 290px;
+}
